@@ -127,7 +127,6 @@ int main()
     TreeNode *newnode, *root;
     root = NULL;
     char option;
-
     do
     {
         newnode = get_node();
